@@ -10,7 +10,7 @@ movie_names = []
 countDown_seconds = list(range(151))
 countDown_seconds.reverse()
 
-window.title('Dumb Sheraz - Created By Sufiyan')
+window.title('Dumb Cherades - Created By Sufiyan')
 window.minsize(500,400)
 window.columnconfigure(0,weight=1,minsize=500)
 
@@ -41,7 +41,7 @@ def generate_film():
 	frame_movie_name.grid(row=2,column=0,padx=5,pady=5,ipadx=5,ipady=5,sticky='we')
 
 head_font = font.Font(family='Helvetica',size=35,weight='bold')
-lbl_head = tk.Label(window,text='dUmB SHeRaZ',font=head_font,fg='#000',bg='#a9d9d9') #666456
+lbl_head = tk.Label(window,text='dUmB CHerAdeS',font=head_font,fg='#000',bg='#a9d9d9') #666456
 lbl_head.grid(row=0,column=0,sticky='ns',padx=5,pady=5,ipadx=5,ipady=5)
 btn_font = font.Font(family='Helvetica',size=10,weight='bold')
 
