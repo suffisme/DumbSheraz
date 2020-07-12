@@ -1,4 +1,4 @@
-# Dumb Sheraz
+# Dumb Cherades
 
 The classic game of making others guess the name of movies using body language.
 
