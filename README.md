@@ -22,16 +22,16 @@ Note: python3 is required
 ### Screenshots
 - Homepage
 
-![](src/ss1.jpg)
+![](src/pss1.jpg)
 
 - Generating Movie Name
 
-![](src/ss2.jpg)
+![](src/pss2.jpg)
 
 - Starting Countdown
 
-![](src/ss3.jpg)
+![](src/pss3.jpg)
 
 - Time's Up
 
-![](src/ss4.jpg)
+![](src/pss4.jpg)
